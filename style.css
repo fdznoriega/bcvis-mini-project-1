@@ -1,0 +1,27 @@
+
+html, body {
+    margin: 0px;
+    height: 100%;
+}
+
+p, h1 {
+    color: rgb(211, 3, 211);
+}
+
+h2 {
+    color: rgb(175, 1, 175);
+}
+
+body {
+    background-color:rgb(44, 44, 44);
+}
+
+.full-page {
+    height: 100%;
+}
+
+.center {
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
