@@ -32,10 +32,15 @@ img {
     margin-right: auto;
     width: 50%;
     height: auto;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.info-card {
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .full-page {
@@ -46,4 +51,22 @@ img {
     text-align: center;
     padding-top: 25%;
     padding-bottom: 25%;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+#boom {
+    height: auto;
+    width: 525px;
+}
+
+#man {
+    height: 500px;
+    width: auto;
 }
